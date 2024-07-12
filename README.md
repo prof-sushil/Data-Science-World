@@ -11,6 +11,10 @@ For the smooth learning process, you should have basic understanding of numpy an
 - [Pandas Tutorial](tutorials/pandas_tutorial.ipynb)
 
 ## Table of Contents
+- [Introduction to AI and Data Science](notes/Introduction%20to%20AI%20&%20Data%20Science.pdf)
+    - Introduction to AI
+    - Introduction to Data Science
+    - AI & Data Science Applications.ss
 
 - [Data Wrangling](tutorials/data_wrangling_with_python.ipynb)
     - Data Wrangling Process
@@ -23,6 +27,11 @@ For the smooth learning process, you should have basic understanding of numpy an
     - Univariate and Bivariate Feature Analysis
     - Boxplot and Outlier Detection
     - Outliers Treatment
+
+- [Introduction to Machine Learning](notes/Introduction%20%20to%20%20Machine%20Learning.pdf)
+    - Introduction to Machine Learning
+    - Supervised Learning Algorithms
+    - Unsupervised Learning Algorithms
 
 - [Linear Regression](tutorials/linear_regression/)
     - Univariate Linear Regression
