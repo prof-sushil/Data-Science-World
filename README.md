@@ -14,7 +14,7 @@ For the smooth learning process, you should have basic understanding of numpy an
 - [Introduction to AI and Data Science](notes/Introduction%20to%20AI%20&%20Data%20Science.pdf)
     - Introduction to AI
     - Introduction to Data Science
-    - AI & Data Science Applications.ss
+    - AI & Data Science Applications
 
 - [Data Wrangling](tutorials/data_wrangling_with_python.ipynb)
     - Data Wrangling Process
@@ -36,3 +36,8 @@ For the smooth learning process, you should have basic understanding of numpy an
 - [Linear Regression](tutorials/linear_regression/)
     - Univariate Linear Regression
     - Multivariate Linear Regression
+
+- [K-Nearest Neighbour](tutorials/knn.ipynb)
+    - KNN Algorithm for Classification and Regression
+    - Technique to choose optimal K
+    - Different Distance Metrics
