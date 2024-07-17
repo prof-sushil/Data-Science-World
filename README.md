@@ -37,6 +37,13 @@ For the smooth learning process, you should have basic understanding of numpy an
     - Univariate Linear Regression
     - Multivariate Linear Regression
 
+- [Support Vector Machines](tutorials/svm.ipynb)
+    - Objective Function Intuition
+    - SVM as Large Margin Classifier
+    - Regularization parameter $C$: Tradeoff between margin-size and classification error
+    - Linear and Non-linear SVMs with different kernels
+    - Applications
+
 - [K-Nearest Neighbour](tutorials/knn.ipynb)
     - KNN Algorithm for Classification and Regression
     - Technique to choose optimal K
