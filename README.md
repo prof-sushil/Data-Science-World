@@ -48,3 +48,25 @@ For the smooth learning process, you should have basic understanding of numpy an
     - KNN Algorithm for Classification and Regression
     - Technique to choose optimal K
     - Different Distance Metrics
+
+- [Decision Trees](tutorials/decision_trees.ipynb)
+    - Components of Decision Trees
+    - Splitting Criteria
+    - Stopping Criteria
+    - Decision Tree for Classification and Regression
+    - Handling Overfitting in Decision Trees
+    - Pros and Cons
+
+- [Naive Bayes Classifier](tutorials/naive_bayes.ipynb)
+    - Bayesian statistics
+    - Types of Naive Bayes classifiers
+    - Applications
+
+- [Ensemble Learning](tutorials/ensemble_learning.ipynb)
+    - Introduction to ensemble techniques
+    - Why use ensemble learning?
+    - Bagging
+    - Random Forest
+    - Boosting
+    - Stacking 
+    - Voting
