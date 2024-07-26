@@ -70,3 +70,15 @@ For the smooth learning process, you should have basic understanding of numpy an
     - Boosting
     - Stacking 
     - Voting
+
+- [Clustering](tutorials/clustering.ipynb)
+    - Introduction to Clustering
+    - Clustering Techniques
+    - K-Means Clustering
+    - DBSCAN Clustering
+    - Gaussian Mixture Model
+
+- [Principal Component Analysis (PCA)](tutorials/pca.ipynb)
+    - Motivation behind PCA
+    - PCA Intuition
+    - PCA Algorithm
